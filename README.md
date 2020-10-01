@@ -7,7 +7,7 @@
 Unofficial client for [TMDb](https://www.themoviedb.org/) created with [React Native](https://facebook.github.io/react-native/). Developed as a training project.
 
 ## App Preview
-
+System based design
 ### Screen Showcase
 
 ![Movie Swiper screen showcase](https://i.imgur.com/8DEW8ED.jpg)
@@ -44,3 +44,4 @@ App uses [TMDb api](https://developers.themoviedb.org/3) to fetch movies. API do
 ## License
 
 [MIT](https://github.com/azhavrid/movie-swiper/blob/master/LICENSE)
+Attractive
